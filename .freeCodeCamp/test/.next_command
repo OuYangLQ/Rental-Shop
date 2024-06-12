@@ -30,3 +30,4 @@ git status
 git branch -M main
 git push -u origin main
 echo hello terminal
+psql --username=freecodecamp --dbname=postgres
