@@ -60,3 +60,4 @@ touch bike-shop.sh
 vim bike-shop.sh
 vim bike-shop.sh
 vim bike-shop.sh
+chmod +x bike-shop.sh
