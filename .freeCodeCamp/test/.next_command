@@ -280,3 +280,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 vim bike-shop.sh
 vim bike-shop.sh
+./bike-shop.sh
