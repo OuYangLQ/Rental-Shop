@@ -145,3 +145,4 @@ vim bike-shop.sh
 ./b
 ./bike-shop.sh
 psql --username=freecodecamp --dbname=postgres
+vim bike-shop.sh
