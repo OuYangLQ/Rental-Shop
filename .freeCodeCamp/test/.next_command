@@ -124,3 +124,6 @@ vim bike-shop.sh
 [[ 11 =~ ^[0-9]+$ ]]
 __vsc_prompt_cmd_original
 [[ ! 11 =~ ^[0-9]+$ ]]
+vim bike-shop.sh
+vim bike-shop.sh
+vim bike-shop.sh
