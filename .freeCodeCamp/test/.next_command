@@ -179,3 +179,5 @@ vim bike-shop.sh
 vim bike-shop.sh
 vim bike-shop.sh
 ./bike-shop.sh
+echo 'M e'
+echo ' M e '
